@@ -1,0 +1,5 @@
+json-server --watch Api.json D:\OpenServer\domains\trivue\Api.json
+npm run serve
+
+npm cache clear --force
+npm install

@@ -1,0 +1,349 @@
+FileType:     Job
+Macros:   ~Macros.txt~
+
+Datarecords:   1
+
+Savemetadata:   0
+
+Unitofmeasure:   ~Inches~
+
+Trace:   ~F~
+
+Usecolortransforms:   0
+
+Main:
+    Adaptivesharpenlimit:                151
+    Adaptivesharpenthreshold:            90
+    Autocrop:                            50 50 50 50 100 100 
+    Autocropmode:                        ~F~
+    Bgcoloropacity:                      100
+    Enhancedtextlogos1:                  1
+    Enhancedtextlogos2:                  1
+    Framemaskfeathering:                 3
+    Framemaskinsidecolor:                0 255 255 255 
+    Framemasktolerance:                  100
+    Framerectoverlapx:                   5
+    Framerectoverlapy:                   5
+    Frameresize:                         ~L~
+    Icolor:                              0 255 255 255 
+    Ifileopacity:                        100
+    Ilocation:                           0 0 10 8 
+    Imagecropheight:                     100
+    Imagecropwidth:                      100
+    Imagecropx:                          50
+    Imagecropy:                          50
+    Imageresize:                         ~L~
+    Logoautorotate:                      1
+    Logofont1:                           ~Arial~
+    Logofont2:                           ~Arial~
+    Logojustification1:                  ~C~
+    Logojustification2:                  ~C~
+    Logomaxfontsize1:                    24
+    Logomaxfontsize2:                    24
+    Logominfontsize1:                    1
+    Logominfontsize2:                    1
+    Logoposition1:                       ~UL~
+    Logoposition2:                       ~UL~
+    Logoscale:                           100
+    Logoscriptsystem1:                   ~Western~
+    Logoscriptsystem2:                   ~Western~
+    Logostroketextopacity1:              100
+    Logostroketextopacity2:              100
+    Logotextalignment1:                  ~C~
+    Logotextalignment2:                  ~C~
+    Logotextantialias1:                  1
+    Logotextantialias2:                  1
+    Nodename:                            ~Main~
+    Sharpenfaster:                       60
+    Strokeimagerect:                     0 0 100 0 0 0 0 
+    Stroketextrect:                      0 0 100 0 0 0 0 
+    Xgamma:                              1
+
+Il:   10000
+    Adaptivesharpenlimit:                151
+    Adaptivesharpenthreshold:            90
+    Autocrop:                            50 50 50 50 100 100 
+    Autocropmode:                        ~C~
+    Bevelimagerect:                      0 1 0 0 0 0 0 
+    Beveltextrect:                       0 1 0 0 0 0 0 
+    Bgcoloropacity:                      100
+    Enhancedtextlogos1:                  1
+    Enhancedtextlogos2:                  1
+    Framemaskfeathering:                 3
+    Framemaskinsidecolor:                0 255 255 255 
+    Framemasktolerance:                  100
+    Framerectoverlapx:                   5
+    Framerectoverlapy:                   5
+    Frameresize:                         ~L~
+    Ifile:                               ~\\Sanserver\md3400\Studios\DP2_ORDER\Cart\78\8b8qUOnuKEigSIS3DCclnopULvCA\13.jpg~
+    Ifileopacity:                        100
+    Ilocation:                           0.096875 2.690625 3.734375 4.55625 
+    Imagecropheight:                     100
+    Imagecropwidth:                      100
+    Imagecropx:                          50
+    Imagecropy:                          50
+    Imageresize:                         ~L~
+    Imageshadowstrength:                 100
+    Iprompt:                             ~insert Image~
+    Logoautorotate:                      1
+    Logofont1:                           ~Arial~
+    Logofont2:                           ~Arial~
+    Logojustification1:                  ~C~
+    Logojustification2:                  ~C~
+    Logomaxfontsize1:                    24
+    Logomaxfontsize2:                    24
+    Logominfontsize1:                    1
+    Logominfontsize2:                    1
+    Logoposition1:                       ~UL~
+    Logoposition2:                       ~UL~
+    Logoscale:                           100
+    Logoscriptsystem1:                   ~Western~
+    Logoscriptsystem2:                   ~Western~
+    Logostroketextopacity1:              100
+    Logostroketextopacity2:              100
+    Logotextalignment1:                  ~C~
+    Logotextalignment2:                  ~C~
+    Logotextantialias1:                  1
+    Logotextantialias2:                  1
+    Maskfile:                            ~\\Ntserver\KPDP2\Artwork\SPV_5x7P_2020\MM1_Mask.png~
+    Nodename:                            ~Layer1~
+    Sharpenfaster:                       60
+    Strokeimagerect:                     0 1 100 0 0 0 0 
+    Stroketextrect:                      0 1 0 0 0 0 0 
+    Tlocation:                           0 0 0 0 
+    Xgamma:                              1
+
+Il:   10001
+    Adaptivesharpenlimit:                151
+    Adaptivesharpenthreshold:            90
+    Autocrop:                            33.79931060896208 61.07576633892422 50 50 42 42 
+    Autocropmode:                        ~C~
+    Autorotate:                          90
+    Bevelimagerect:                      0 1 0 0 0 0 0 
+    Beveltextrect:                       0 1 0 0 0 0 0 
+    Bgcoloropacity:                      100
+    Enhancedtextlogos1:                  1
+    Enhancedtextlogos2:                  1
+    Framemaskfeathering:                 3
+    Framemaskinsidecolor:                0 255 255 255 
+    Framemasktolerance:                  100
+    Framerectoverlapx:                   5
+    Framerectoverlapy:                   5
+    Frameresize:                         ~L~
+    Ifile:                               ~\\Sanserver\md3400\Studios\DP2_ORDER\Cart\78\8b8qUOnuKEigSIS3DCclnopULvCA\13.jpg~
+    Ifileopacity:                        100
+    Ilocation:                           3.034375 0.0375 3.428125 4.11875 
+    Imagecropheight:                     100
+    Imagecropwidth:                      100
+    Imagecropx:                          50
+    Imagecropy:                          50
+    Imageresize:                         ~L~
+    Imageshadowstrength:                 100
+    Iprompt:                             ~insert Image~
+    Logoautorotate:                      1
+    Logofont1:                           ~Arial~
+    Logofont2:                           ~Arial~
+    Logojustification1:                  ~C~
+    Logojustification2:                  ~C~
+    Logomaxfontsize1:                    24
+    Logomaxfontsize2:                    24
+    Logominfontsize1:                    1
+    Logominfontsize2:                    1
+    Logoposition1:                       ~UL~
+    Logoposition2:                       ~UL~
+    Logoscale:                           100
+    Logoscriptsystem1:                   ~Western~
+    Logoscriptsystem2:                   ~Western~
+    Logostroketextopacity1:              100
+    Logostroketextopacity2:              100
+    Logotextalignment1:                  ~C~
+    Logotextalignment2:                  ~C~
+    Logotextantialias1:                  1
+    Logotextantialias2:                  1
+    Maskfile:                            ~\\Ntserver\KPDP2\Artwork\SPV_5x7P_2020\MM2_Mask.png~
+    Nodename:                            ~Layer2~
+    Rotatefromdisk:                      0
+    Sharpenfaster:                       60
+    Strokeimagerect:                     0 1 100 0 0 0 0 
+    Stroketextrect:                      0 1 0 0 0 0 0 
+    Tlocation:                           0 0 0 0 
+    Xgamma:                              1
+
+Il:   10002
+    Adaptivesharpenlimit:                151
+    Adaptivesharpenthreshold:            90
+    Autocrop:                            50 50 50 50 100 100 
+    Autocropmode:                        ~C~
+    Bevelimagerect:                      0 1 0 0 0 0 0 
+    Beveltextrect:                       0 1 0 0 0 0 0 
+    Bgcoloropacity:                      100
+    Enhancedtextlogos1:                  1
+    Enhancedtextlogos2:                  1
+    Framemaskfeathering:                 3
+    Framemaskinsidecolor:                0 255 255 255 
+    Framemasktolerance:                  100
+    Framerectoverlapx:                   5
+    Framerectoverlapy:                   5
+    Frameresize:                         ~L~
+    Ifile:                               ~\\Sanserver\md3400\Studios\DP2_ORDER\Cart\78\8b8qUOnuKEigSIS3DCclnopULvCA\13.jpg~
+    Ifileopacity:                        100
+    Ilocation:                           5.559375 2.56875 4.318750000000001 4.921875 
+    Imagecropheight:                     100
+    Imagecropwidth:                      100
+    Imagecropx:                          50
+    Imagecropy:                          50
+    Imageresize:                         ~L~
+    Imageshadowstrength:                 100
+    Iprompt:                             ~insert Image~
+    Logoautorotate:                      1
+    Logofont1:                           ~Arial~
+    Logofont2:                           ~Arial~
+    Logojustification1:                  ~C~
+    Logojustification2:                  ~C~
+    Logomaxfontsize1:                    24
+    Logomaxfontsize2:                    24
+    Logominfontsize1:                    1
+    Logominfontsize2:                    1
+    Logoposition1:                       ~UL~
+    Logoposition2:                       ~UL~
+    Logoscale:                           100
+    Logoscriptsystem1:                   ~Western~
+    Logoscriptsystem2:                   ~Western~
+    Logostroketextopacity1:              100
+    Logostroketextopacity2:              100
+    Logotextalignment1:                  ~C~
+    Logotextalignment2:                  ~C~
+    Logotextantialias1:                  1
+    Logotextantialias2:                  1
+    Maskfile:                            ~\\Ntserver\KPDP2\Artwork\SPV_5x7P_2020\MM3_Mask.png~
+    Nodename:                            ~Layer3~
+    Sharpenfaster:                       60
+    Strokeimagerect:                     0 1 100 0 0 0 0 
+    Stroketextrect:                      0 1 0 0 0 0 0 
+    Tlocation:                           0 0 0 0 
+    Xgamma:                              1
+
+Il:   10003
+    Adaptivesharpenlimit:                151
+    Adaptivesharpenthreshold:            90
+    Autocrop:                            49.95331465919701 49.98053717399766 50 50 100 100 
+    Autocropmode:                        ~C~
+    Bevelimagerect:                      0 1 0 0 0 0 0 
+    Beveltextrect:                       0 1 0 0 0 0 0 
+    Bgcoloropacity:                      100
+    Enhancedtextlogos1:                  1
+    Enhancedtextlogos2:                  1
+    Framemaskfeathering:                 3
+    Framemaskinsidecolor:                0 255 255 255 
+    Framemasktolerance:                  100
+    Framerectoverlapx:                   5
+    Framerectoverlapy:                   5
+    Frameresize:                         ~L~
+    Ifile:                               ~\\sanserver\MD3400\Studios\StudioID_5406\ClientID_28496\EventID_28611\PhotographerID_5407\O_28611_5407\NorthShoreMem2021.psd~
+    Ifileopacity:                        100
+    Ilocation:                           0 0 10.03125 8.025 
+    Imagecropheight:                     100
+    Imagecropwidth:                      100
+    Imagecropx:                          50
+    Imagecropy:                          50
+    Imageresize:                         ~L~
+    Imageshadowstrength:                 100
+    Iprompt:                             ~~
+    Logoautorotate:                      1
+    Logofont1:                           ~Arial~
+    Logofont2:                           ~Arial~
+    Logojustification1:                  ~C~
+    Logojustification2:                  ~C~
+    Logomaxfontsize1:                    24
+    Logomaxfontsize2:                    24
+    Logominfontsize1:                    1
+    Logominfontsize2:                    1
+    Logoposition1:                       ~UL~
+    Logoposition2:                       ~UL~
+    Logoscale:                           100
+    Logoscriptsystem1:                   ~Western~
+    Logoscriptsystem2:                   ~Western~
+    Logostroketextopacity1:              100
+    Logostroketextopacity2:              100
+    Logotextalignment1:                  ~C~
+    Logotextalignment2:                  ~C~
+    Logotextantialias1:                  1
+    Logotextantialias2:                  1
+    Nodename:                            ~Layer0~
+    Sharpenfaster:                       60
+    Strokeimagerect:                     0 1 100 0 0 0 0 
+    Stroketextrect:                      0 1 0 0 0 0 0 
+    Tlocation:                           0 0 0 0 
+    Xgamma:                              1
+
+Aftereffects:
+    Adaptivesharpenlimit:                151
+    Xgamma:                              1
+
+Saveimage:
+    Annotation1:                         ~<$@Func.OrderFieldForNode(10001,ID)>    <$@Func.ImageFieldForNode(10001,FRAME)>  ~
+    Annotation2:                         ~©<$@Date.Year> <$@Func.CustomerFieldForNode(10001,COPYRIGHT)>~
+    Copies:                              1
+    Enabled:                             1
+    Oemprinterchannel:                   1
+    Oemprintersurface:                   2
+    Ospotcolorfiletype:                  ~JPEG~
+    Paperwidth:                          10
+    Printerresize:                       1
+    Queuename:                           ~Noritsu3704_Pro100~
+    Rp30:                                0
+    Rr30:                                0
+    Savefiletype:                        ~JPEG~
+    Xres:                                0
+
+Outputtocrt:
+    Borderless:                          1
+    Copies:                              1
+    Enabled:                             0
+    Paperadvance:                        8
+    Paperwidth:                          10
+    Printernumber:                       (-1)
+    Rotated:                             0
+
+Outputtoled:
+    Borderless:                          1
+    Copies:                              1
+    Deferred:                            1
+    Enabled:                             0
+    Fillbackground:                      1
+    Idpunch:                             0
+    Mediasize:                           ~10~
+    Offsetindex:                         0
+    Orderpunch:                          0
+    Paperadvance:                        8
+    Paperwidth:                          10
+    Printernumber:                       (-1)
+    Resolution:                          250
+    Rotated:                             0
+
+Outputtonexpress:
+    Bleed:                               0
+    Copies:                              1
+    Enabled:                             0
+    Oemprintersurface:                   0
+    Ospotcolorfiletype:                  ~JPEG~
+    Paperwidth:                          8.5
+    Printerresize:                       0
+    Savefiletype:                        ~JPEG~
+    Xres:                                300
+
+Outputtolaserprinter:
+    Center:                              ~0~
+    Copies:                              1
+    Enabled:                             0
+    Paperadvance:                        10
+    Paperwidth:                          8
+    Productpageseqcurrent:               0
+    Productpageseqlast:                  0
+    Xgamma:                              0.7
+
+Productinfo:
+
+
+
+# End of Job. Contains 18 Major Keywords
